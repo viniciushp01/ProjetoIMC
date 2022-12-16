@@ -1,0 +1,1 @@
+Projeto que calcula IMC e mostra o resultado para  o usuário feito com HTML, CSS e JS.
